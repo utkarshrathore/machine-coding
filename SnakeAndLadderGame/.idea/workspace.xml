@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d39e022-cecf-4006-a7a0-afc22907b160" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1biuLpvNLVSvCL8O4PjciuiR8fj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="SnakeAndLadder" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.games.snakeladder.driver.SnakeAndLadderBoard" />
+      <module name="SnakeAndLadderGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d39e022-cecf-4006-a7a0-afc22907b160" name="Default Changelist" comment="" />
+      <created>1589127181680</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589127181680</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589166482305">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state x="104" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.715@0.23.1280.715" timestamp="1589166482305" />
+    <state x="453" y="75" key="#com.intellij.ide.util.MemberChooser" timestamp="1589252215746">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state x="453" y="75" key="#com.intellij.ide.util.MemberChooser/0.23.1280.715@0.23.1280.715" timestamp="1589252215746" />
+    <state x="377" y="173" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589166458878">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state x="377" y="173" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1280.715@0.23.1280.715" timestamp="1589166458878" />
+    <state width="1238" height="228" key="GridCell.Tab.0.bottom" timestamp="1589280674298">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state width="1238" height="228" key="GridCell.Tab.0.bottom/0.23.1280.715@0.23.1280.715" timestamp="1589280674298" />
+    <state width="1238" height="228" key="GridCell.Tab.0.center" timestamp="1589280674297">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state width="1238" height="228" key="GridCell.Tab.0.center/0.23.1280.715@0.23.1280.715" timestamp="1589280674297" />
+    <state width="1238" height="228" key="GridCell.Tab.0.left" timestamp="1589280674297">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state width="1238" height="228" key="GridCell.Tab.0.left/0.23.1280.715@0.23.1280.715" timestamp="1589280674297" />
+    <state width="1238" height="228" key="GridCell.Tab.0.right" timestamp="1589280674298">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state width="1238" height="228" key="GridCell.Tab.0.right/0.23.1280.715@0.23.1280.715" timestamp="1589280674298" />
+    <state x="296" y="214" key="com.intellij.ide.util.TipDialog" timestamp="1589167781259">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state x="296" y="214" key="com.intellij.ide.util.TipDialog/0.23.1280.713@0.23.1280.713" timestamp="1589167781259" />
+    <state x="34" y="86" key="new project wizard" timestamp="1589280699547">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state x="34" y="86" key="new project wizard/0.23.1280.715@0.23.1280.715" timestamp="1589280699547" />
+    <state x="305" y="62" width="670" height="676" key="search.everywhere.popup" timestamp="1589163890898">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state x="305" y="62" width="670" height="676" key="search.everywhere.popup/0.23.1280.715@0.23.1280.715" timestamp="1589163890898" />
+  </component>
+</project>
