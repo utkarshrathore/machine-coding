@@ -1,8 +1,0 @@
-
-Ssquid:S1444"0Make this "public static URL_PREFIX" field final(Øø«‘ùÿÿÿÿ8‚»¡» .
-"squid:ClassVariableVisibilityCheck"VMake URL_PREFIX a static final constant or non-public and provide accessors if needed.(Øø«‘ùÿÿÿÿ8‚»¡» .
-]squid:S1118":Add a private constructor to hide the implicit public one.(“³±ûÿÿÿÿ8‚»¡» .
-Vsquid:S1444"3Make this "public static EMAIL_POSTFIX" field final(¾Î¤úÿÿÿÿ8ı½Ï» .
-“"squid:ClassVariableVisibilityCheck"YMake EMAIL_POSTFIX a static final constant or non-public and provide accessors if needed.(¾Î¤úÿÿÿÿ8ı½Ï» .
-xsquid:S3008"URename this field "URL_PREFIX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øø«‘ùÿÿÿÿ8‚»¡» .
-{squid:S3008"XRename this field "EMAIL_POSTFIX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Î¤úÿÿÿÿ8ı½Ï» .

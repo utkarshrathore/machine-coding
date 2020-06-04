@@ -1,5 +1,0 @@
-
-Tsquid:S1444"8Make this "public static LOG_MESSAGE_FORMAT" field final(Öç”¤ùÿÿÿÿ
-Vsquid:S1118":Add a private constructor to hide the implicit public one.(“³±ûÿÿÿÿ
-ysquid:S3008"]Rename this field "LOG_MESSAGE_FORMAT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öç”¤ùÿÿÿÿ
-‘"squid:ClassVariableVisibilityCheck"^Make LOG_MESSAGE_FORMAT a static final constant or non-public and provide accessors if needed.(Öç”¤ùÿÿÿÿ
