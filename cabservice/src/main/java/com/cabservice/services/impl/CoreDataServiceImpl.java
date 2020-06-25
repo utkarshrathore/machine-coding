@@ -38,4 +38,16 @@ public class CoreDataServiceImpl implements CoreDataService {
     public Cab getCab(String cabId) {
         return cabMap.get(cabId);
     }
+
+    public Map<String, User> getUserMap() {
+        return userMap;
+    }
+
+    public Map<String, Driver> getDriverMap() {
+        return driverMap;
+    }
+
+    public Map<String, Cab> getCabMap() {
+        return cabMap;
+    }
 }

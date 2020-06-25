@@ -1,4 +1,10 @@
-package com.games.snakeladder.entities; public class Ladder { private int startPosition; private int endPosition; public Ladder(int startPosition, int endPosition) {
+package com.games.snakeladder.entities;
+
+public class Ladder {
+    private int startPosition;
+    private int endPosition;
+
+    public Ladder(int startPosition, int endPosition) {
         this.startPosition = startPosition;
         this.endPosition = endPosition;
     }

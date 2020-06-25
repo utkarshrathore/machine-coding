@@ -20,6 +20,10 @@ public class Cab {
         this.uuid = UUID.randomUUID().toString();
     }
 
+    public String getUuid() {
+        return uuid;
+    }
+
     public String getMake() {
         return make;
     }
